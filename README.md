@@ -49,11 +49,7 @@ With the following software and hardware list you can run all code files present
 | 1-8        | Atleast 25 GB Free Storage Space, Access to either a DVD or USB flash drive                     | Linux Ubuntu 16.04 |
 
 
-## Code in Action
 
-Click on the following link to see the Code in Action:
-
-[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
 * Mastering Bash [[Packt]](https://www.packtpub.com/networking-and-servers/mastering-bash?utm_source=github&utm_medium=repository&utm_campaign=9781784396879) [[Amazon]](https://www.amazon.com/dp/1784396877)
